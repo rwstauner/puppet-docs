@@ -8,7 +8,7 @@ Thank you for helping us improve our docs! Here are some non-obvious things you 
 
 These files are all **automatically generated** from strings in the Puppet source code. If you edit the old frozen versions, we will generate a fresh page of "wrong" text when the next version of Puppet comes out!
 
-Instead, please edit the text [in the Puppet source code](https://github.com/puppetlabs/puppet) (see below for a list of locations) and submit a pull request to the Puppet project. Be careful about quoting and escaping, and be sure to read Puppet's [contributing guidelines](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md). For minor docs edits, you can skip filing a JIRA ticket and instead begin your commit message with `(docs)`.
+Instead, please edit the text [in the Puppet source code](https://github.com/puppetlabs/puppet) (see below for a list of locations) and submit a pull request to the Puppet project. Be careful about quoting and escaping, and be sure to read Puppet's [contributing guidelines](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md). For minor doc edits, you can skip filing a JIRA ticket and instead begin your commit message with `(doc)`.
 
 ## Locations of Docs Text in the Puppet Source
 
